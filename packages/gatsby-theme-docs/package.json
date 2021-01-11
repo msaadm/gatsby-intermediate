@@ -2,6 +2,9 @@
   "name": "gatsby-theme-docs",
   "version": "1.0.0",
   "main": "index.js",
-  "author" : "Saad Mateen <saad.5690@gmail.com>",
-  "license": "MIT"
+  "author": "Saad Mateen <saad.5690@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^1.0.4"
+  }
 }
